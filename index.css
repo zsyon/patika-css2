@@ -14,7 +14,7 @@
 
 .text3 {
   float: left;
-  margin-left: 700px;
+  margin-left: 750px;
   margin-right: 15px;
 }
 
@@ -27,11 +27,24 @@
   float: left;
   width: 60px;
   margin-left: 1000px;
-  margin-top: 10px;
-  align-self: center;
+  margin-top: -52px;
 }
 
 .image2 {
+  float: left;
   width: 70px;
-  margin-top: 10px;
+  margin-left: 1080px;
+  margin-top: -45px;
+}
+
+.image3 {
+  margin-left: 38.5%;
+  margin-top: 50px;
+}
+
+input {
+  border-radius: 10px 10px 10px 10px;
+  width: 420px;
+  height: 23px;
+  margin-left: 32%;
 }
